@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/drawable-v24/ic_dehaze.xml" value="0.1795" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/drawable-v24/ic_home.xml" value="0.1795" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/drawable/shape_border_circle.xml" value="0.1795" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/drawable/shape_border_rounded.xml" value="0.1795" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/layout/item_feed_head.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/layout/item_feed_post.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/layout/item_feed_story.xml" value="0.33" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/layout/item_story_view.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/layout/profile_layout.xml" value="0.25" />
+        <entry key="..\:/Users/natio/Downloads/facebook/app/src/main/res/menu/bottom_navigation.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
